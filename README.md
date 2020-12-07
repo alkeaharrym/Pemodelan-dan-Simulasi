@@ -1,1 +1,1 @@
-# Pemodelan-dan-Simulasi
+# Pemodelan dan Simulasi
